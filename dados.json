@@ -1,0 +1,19 @@
+{
+  "alunos": [
+    {
+      "nome": "David",
+      "email": "dasd@dad.dsf",
+      "id": 1
+    },
+    {
+      "nome": "Luisa",
+      "email": "dasd@xad",
+      "id": 2
+    },
+    {
+      "nome": "",
+      "email": "",
+      "id": 3
+    }
+  ]
+}
